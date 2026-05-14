@@ -1,0 +1,8 @@
+{
+  "name": "Aditya Hridaya Stotram",
+  "description": "A soothing, temple-vibe application to read and chant the Aditya Hridaya Stotram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
